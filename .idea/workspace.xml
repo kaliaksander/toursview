@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f6eb275-9ff2-4349-bdc7-d34473da2801" name="Default" comment="">
+    <list default="true" id="5f6eb275-9ff2-4349-bdc7-d34473da2801" name="Default" comment="commit_8_1">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/t32.exe" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/t64.exe" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/w32.exe" />
@@ -51,7 +51,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/tcl/tk8.5/images/pwrdLogo75.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/tcl/tk8.5/images/tai-ku.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/Python-ast.h" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/Python.h" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/abstract.h" />
@@ -1839,7 +1838,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/tcl/tk8.5/ttk/xpTheme.tcl" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/tcl/tk8.5/unsupported.tcl" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/tcl/tk8.5/xmfbox.tcl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <ignored path="flask_intro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1951,7 +1949,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -2145,7 +2143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500539906080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit_8_1">
+      <created>1500542097629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500542097629</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2204,7 +2209,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit_2_4" />
     <MESSAGE value="commit_8" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_8" />
+    <MESSAGE value="commit_8_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_8_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

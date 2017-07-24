@@ -1,13 +1,9 @@
 {% extends "base.html" %}
 {% block content %}
-<H1>Welcome to Flask</H1>
+<H1>Welcome to our site</H1>
 <BR>
-<p>Click <a href="/logout"> here </a> to logout.</p>
-<br><br>
-<H2>Posts:</H2>
-{% for post in posts %}
-<strong>Title:</strong>{{post.title}}<br>
-<strong>Post:</strong>{{post.description}}<br>
+
+<p><a href="http://127.0.0.1:5000/login">login</a></p>
+<p><a href="http://127.0.0.1:5000/signup">signup</a></p>
 <br>
-{% endfor %}
 {% endblock %}

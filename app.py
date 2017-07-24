@@ -4,10 +4,10 @@ from functools import wraps
 # import sqlite3
 
 app = Flask(__name__)
-#app.database = "samle.db"
+# app.database = "samle.db"
 
-app.secret_key='my previous'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///posts.db'
+# config
+app.config.from_object('config.DevelopmentConfig')
 
 # create the sqlalchemy object
 db = SQLAlchemy(app)
@@ -55,4 +55,4 @@ def logout():
     return redirect(url_for('welcome'))
 
 if __name__=='__main__':
-    app.run(debug=True)
+    app.run()

@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f6eb275-9ff2-4349-bdc7-d34473da2801" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/_psycopg.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2-2.7.2.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2-2.7.2.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2-2.7.2.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2-2.7.2.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2-2.7.2.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2-2.7.2.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2-2.7.2.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/_ipaddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/_json.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/_range.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/errorcodes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/extensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/extras.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/pool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/psycopg1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/sql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/dbapi20.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/dbapi20_tpc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_async.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_async_keyword.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_bugX000.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_bug_gc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_cancel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_copy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_cursor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_dates.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_errcodes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_extras_dictcursor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_fast_executemany.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_green.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_ipaddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_lobject.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_notify.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_psycopg2_dbapi20.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_quote.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_replication.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_sql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_transaction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_types_basic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_types_extras.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/test_with.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/testconfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tests/testutils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/psycopg2/tz.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.py" afterPath="$PROJECT_DIR$/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <ignored path="flask_intro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,8 +26,8 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#84#0" expanded="true" />
               </folding>
@@ -147,8 +97,8 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/templates/config.py" />
         <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -809,14 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -851,10 +793,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
           </folding>
